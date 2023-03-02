@@ -22,7 +22,7 @@ int main()
         sum=sum+product;         // find sum
         } 
     if (sum==b)
-    printf("THE NUMBER %d is ARMSTRONG",b);
+    printf("THE NUMBER %d is ARMSTRONG",b);// if the sum is equall to the given input
     else
         
     printf("The number %d is not ARMSTRONG ",b);
